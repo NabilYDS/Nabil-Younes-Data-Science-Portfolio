@@ -5,7 +5,7 @@ Welcome to my data science portfolio. Here, you will find a collection of projec
 # Projects:
 **[SpaceX Falcon9 FirstStage Landing Prediction](https://github.com/NabilYDS/Nabil-Younis-Data-Science-Portfolio/tree/main/SpaceX%20Falcon%209%20First%20Stage%20Landing%20Prediction)**: Modeling on SpaceX historical data
 
-Titanic - Machine Learning from Disaster (Coming soon)
+Titanic - Machine Learning from Disaster
 
-For more information, please contact me at: nabil.ns.ds@outlook.com
+For more information, please contact me at: nabil.nds@yahoo.com
 
